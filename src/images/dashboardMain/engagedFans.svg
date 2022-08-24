@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <g id="Groupe_102" data-name="Groupe 102" transform="translate(-397 -410)">
+    <rect id="Rectangle_46" data-name="Rectangle 46" width="60" height="60" rx="13" transform="translate(397 410)" fill="#4cbbb6"/>
+    <g id="wondicon-ui-free-graph_111268" transform="translate(390.789 402.775)">
+      <path id="Tracé_272" data-name="Tracé 272" d="M25.1,48.19a.789.789,0,0,1-.789-.789V25.1a.789.789,0,0,1,1.577,0V47.4A.789.789,0,0,1,25.1,48.19Z" transform="translate(0 0)" fill="#fff" stroke="#fff" stroke-width="1"/>
+      <path id="Tracé_273" data-name="Tracé 273" d="M25.1,58.394a.789.789,0,0,1-.607-1.292l3.264-3.944a.789.789,0,0,1,.986-.189l4.575,2.505,6.31-6.31a.789.789,0,0,1,.937-.134l2.944,1.611,3.221-5.277a.791.791,0,0,1,1.353.82L44.47,52.1a.789.789,0,0,1-1.052.282l-3.084-1.689L34.024,57a.789.789,0,0,1-.937.134L28.56,54.662l-2.854,3.447A.789.789,0,0,1,25.1,58.394Z" transform="translate(0 -17.412)" fill="#fff" stroke="#fff" stroke-width="1"/>
+      <path id="Tracé_274" data-name="Tracé 274" d="M47.4,146.577H25.1a.789.789,0,0,1,0-1.577H47.4a.789.789,0,1,1,0,1.577Z" transform="translate(0 -101.651)" fill="#fff" stroke="#fff" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

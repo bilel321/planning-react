@@ -1,0 +1,12 @@
+
+
+
+.PLanification{
+    width: 50%;
+    height: 200%;
+}
+.full-calendar{
+    min-width: 1100px;
+    min-height: 300px;
+    max-height: 700px;
+}

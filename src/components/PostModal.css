@@ -1,0 +1,10 @@
+.Editor .toolbar-class {
+    font-size: 5px;
+}
+.Editor .toolbar-class .bg-transparent{
+    max-width: 1rem;
+}
+img,svg{
+    max-width: 1rem;
+ 
+}
